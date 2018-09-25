@@ -1,0 +1,36 @@
+.picture{float: right}
+.Title{ font-size: 200%; clear: left; color: white}
+.info{font-size: 60px;color: white}
+.paragraph{ font-size: 40px;color: white}
+.paragraph2{font-size: 40px;color: white}
+.paragraph3{font-size: 40px; color: white}
+.Picture2{float: right}
+.Noble{position: absolute;
+    height: 500px;
+    width: 400px;
+    margin: -100px 0 0 -200px;
+    top: 10%;
+    left: 40%;}
+.school{position: absolute;
+    height: 400px;
+    width: 1100px;
+    margin: -100px 0 0 -200px;
+    top: 60%;
+    left: 20%;
+    font-size: 40px;
+    color: white;
+}
+.freetime{position: absolute;
+    height: 400px;
+    width: 1100px;
+    margin: -100px 0 0 -200px;
+    top: 70%;
+    left: 20%;
+    font-size: 50px;
+    color: white;}
+.baseball{position: absolute;
+    height: 500px;
+    width: 400px;
+    margin: -100px 0 0 -200px;
+    top: 10%;
+    left: 40%;}
